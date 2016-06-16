@@ -1,0 +1,7 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.mouseWheelScrollSensitivity": 2,
+    "editor.formatOnType": true,
+    "editor.tabSize": 3,
+    "editor.eol": "\n"
+}
